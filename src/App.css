@@ -1,3 +1,10 @@
+body{
+  font-family: Roboto;
+}
+.Left, .Right {
+  height: 100vh;
+}
+
 .App {
   text-align: center;
 }

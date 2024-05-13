@@ -1,0 +1,5 @@
+.Left {
+  width: 25%;
+  background-color: beige;
+  height: 100vh; /* Set height to 100% of viewport height */
+}
